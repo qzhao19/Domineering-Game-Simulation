@@ -13,4 +13,6 @@ This project focus on simulating Domineering game that is a mathematical game pl
 - NumPy 1.11.3
 - keras 2.2.2
 
+For training the CNN model, you need to download the dataset from this link: [domineering dataset](https://drive.google.com/file/d/1136uY7B1N5udfsSpo8vowdlo1rpMhqG9/view?usp=sharing)
+
 
